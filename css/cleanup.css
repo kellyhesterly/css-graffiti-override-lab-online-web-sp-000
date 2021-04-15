@@ -1,8 +1,24 @@
 /* write your override styles here */
-#wall {
+#wall tag-1 {
   display: none;
 }
 
-parent {
+#tag-2 {
+  display: none;
+}
+
+#tag-3 {
+  display: none;
+}
+
+parent #tag-5 {
+  display: none;
+}
+
+#tag-6 {
+  display: none;
+}
+
+parent #tag-7 {
   display: none;
 }
